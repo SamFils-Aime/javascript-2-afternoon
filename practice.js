@@ -172,4 +172,3 @@ function makeCard (cardNumber, expirationDate, securityCode) {
   }
 }
 
-console.log(makeCard(2,2,2))
